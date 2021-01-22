@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
+## [2.7.0](https://www.github.com/googleapis/python-bigquery/compare/v2.6.2...v2.7.0) (2021-01-22)
+
+
+### Bug Fixes
+
+* reading the labels attribute on Job instances ([#471](https://www.github.com/googleapis/python-bigquery/issues/471)) ([80944f0](https://www.github.com/googleapis/python-bigquery/commit/80944f080bcc4fda870a6daf1d884de616d39ae7))
+* use explicitly given project over the client's default project for load jobs ([#482](https://www.github.com/googleapis/python-bigquery/issues/482)) ([530e1e8](https://www.github.com/googleapis/python-bigquery/commit/530e1e8d8fe8939e914a78ff1b220907c1b87af7))
+
 ### [2.6.2](https://www.github.com/googleapis/python-bigquery/compare/v2.6.1...v2.6.2) (2021-01-11)
 
 
